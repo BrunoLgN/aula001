@@ -1,0 +1,14 @@
+C:\poo\vscode\ex001.cs\bin\Debug\net7.0\ex001.cs.exe
+C:\poo\vscode\ex001.cs\bin\Debug\net7.0\ex001.cs.deps.json
+C:\poo\vscode\ex001.cs\bin\Debug\net7.0\ex001.cs.runtimeconfig.json
+C:\poo\vscode\ex001.cs\bin\Debug\net7.0\ex001.cs.dll
+C:\poo\vscode\ex001.cs\bin\Debug\net7.0\ex001.cs.pdb
+C:\poo\vscode\ex001.cs\obj\Debug\net7.0\ex001.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\vscode\ex001.cs\obj\Debug\net7.0\ex001.cs.AssemblyInfoInputs.cache
+C:\poo\vscode\ex001.cs\obj\Debug\net7.0\ex001.cs.AssemblyInfo.cs
+C:\poo\vscode\ex001.cs\obj\Debug\net7.0\ex001.cs.csproj.CoreCompileInputs.cache
+C:\poo\vscode\ex001.cs\obj\Debug\net7.0\ex001.cs.dll
+C:\poo\vscode\ex001.cs\obj\Debug\net7.0\refint\ex001.cs.dll
+C:\poo\vscode\ex001.cs\obj\Debug\net7.0\ex001.cs.pdb
+C:\poo\vscode\ex001.cs\obj\Debug\net7.0\ex001.cs.genruntimeconfig.cache
+C:\poo\vscode\ex001.cs\obj\Debug\net7.0\ref\ex001.cs.dll
