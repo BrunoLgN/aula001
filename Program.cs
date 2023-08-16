@@ -1,45 +1,26 @@
 ﻿using System;
 
-namespace ex003;
+int num;
+int fatorial = 1;
 
-class Program
+Console.WriteLine("Informe um numero: ");
+
+while (true)
 {
-    static void Main(string[] args)
+    num = int.Parse(s: Console.ReadLine());
+    if (num < 0)
     {
-        Random random = new Random();
-        int randomNumber = random.Next(1, 101);
-
-        int palpite;
-        int chances = 0;
-
-        while(true)
-        {
-            Console.WriteLine("Informe seu palpite: ");
-            palpite = int.Parse(Console.ReadLine());
-            if(chances == 10)
-            {
-                Console.WriteLine("Chances esgotadas, você perdeu!");
-                break;
-            }
-            if(palpite == randomNumber)
-            {
-                Console.WriteLine("Parabens você acertou!");
-                break;
-            } else
-            {
-                if(palpite > randomNumber)
-                {
-                    Console.WriteLine("Muito Alto");
-                    chances++;
-                    continue;
-                } else if(palpite < randomNumber)
-                {
-                    Console.WriteLine("Muito baixo");
-                    chances++;
-                    continue;
-                }
-            }
-
-        } 
+        Console.WriteLine("Numero invalido, informe outro: ");
+        continue;
+    }
+    else
+    {
+        break;
     }
 }
+
+for (int i = 2; i <= num; i++)
+{
+    fatorial *= i;
+}
+Console.WriteLine(fatorial);
